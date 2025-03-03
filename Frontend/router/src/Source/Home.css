@@ -1,0 +1,84 @@
+ 
+.home-container {
+  background-image: url('https://img.freepik.com/free-vector/hand-drawn-school-supplies-pattern-background_23-2150855728.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 60vh; 
+  max-width: 50%; /* Reduced width */
+  margin: auto; /* Ensures it's centered */
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  text-align: center;
+  border-radius: 12px; /* Smooth edges */
+  padding: 20px;
+  margin-top: 70px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-color: #f4f4f9; 
+    color: #333; 
+  }
+  
+  h1 {
+    color:black; 
+    font-size: 2.5rem;
+    font-family: 'Poppins', sans-serif; 
+    font-family: 'Playfair Display', serif;    
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: black; 
+    font-size: 1.2rem;
+    margin: 20px 0;
+    line-height: 1.6;
+  }
+  
+  .home-links {
+    margin-top: 30px;
+  }
+  
+  .home-links a {
+    font-size: 1.2rem;
+    margin: 10px;
+    padding: 12px 24px;
+    background-color: BLUE;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  .b1,.b2{
+        margin-bottom: 30px;
+        background-color:green;
+        width: 80px;
+        height:40px;
+        gap: 90px;
+  }
+  
+  .home-links a:hover {
+    background-color: #45a049;
+  }
+  
+  .home-links a:active {
+    background-color: grey;
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 2rem; 
+    }
+  
+    p {
+      font-size: 1rem; 
+    }
+  
+    .home-links a {
+      font-size: 1rem;
+      padding: 10px 20px;
+    }
+  }
+  img{
+    width:400px;
+  }
+  

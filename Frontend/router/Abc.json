@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "vanu",
+      "email": "vanu@gmail.com",
+      "password": "vanu1"
+    },
+    {
+      "id": "62be",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "b94c",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "c53f",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "51bb",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "e38e",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "af7f",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "6875",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "7c7e",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "3ed2",
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "351f",
+      "username": "",
+      "password": ""
+    }
+  ]
+}
