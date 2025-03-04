@@ -5,11 +5,11 @@
   background-size: cover;
   background-attachment: fixed;
   min-height: 60vh; 
-  max-width: 50%; /* Reduced width */
-  margin: auto; /* Ensures it's centered */
+  max-width: 50%; 
+  margin: auto; 
   background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
   text-align: center;
-  border-radius: 12px; /* Smooth edges */
+  border-radius: 12px; 
   padding: 20px;
   margin-top: 70px;
     font-family: Arial, sans-serif;
