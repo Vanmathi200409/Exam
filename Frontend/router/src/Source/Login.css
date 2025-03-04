@@ -64,7 +64,6 @@
   background-color: #0056b3;
 }
 
-/* Responsive Adjustments */
 @media (max-width: 768px) {
   .second {
     max-width: 80%;
