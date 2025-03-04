@@ -7,8 +7,6 @@ router.post("/add", async (req, res) => {
       if (!Array.isArray(exams) || exams.length === 0) {
         return res.status(400).json({ message: "Invalid data format. Expected an array of exams." });
       }
-  
-      // Validate each exam
       for (const exam of exams) {
         if (!exam.examName || !exam.degree) {
           return res.status(400).json({ message: "Each exam must have an examName and degree." });
