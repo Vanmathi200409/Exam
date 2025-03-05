@@ -29,7 +29,7 @@
 .degree-buttons {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 10px; /* Reduced gap */
+  gap: 10px; 
 }
 
 .degree-box {
